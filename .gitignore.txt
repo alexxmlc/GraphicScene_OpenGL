@@ -1,6 +1,0 @@
-.vs/
-ipch/
-*.ipch
-*.pdb
-bin/
-obj/
