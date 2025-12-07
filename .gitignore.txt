@@ -1,7 +1,6 @@
 .vs/
-*.suo
-*.user
-*.userosscache
-*.sln.docstates
+ipch/
+*.ipch
+*.pdb
 bin/
 obj/
