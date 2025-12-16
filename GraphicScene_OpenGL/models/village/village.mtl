@@ -1,0 +1,1263 @@
+# Blender 4.5.3 LTS MTL File: 'project.blend'
+# www.blender.org
+
+newmtl House_4
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Medieval house4_Diffuse.jpg
+map_Ns Medieval house4_Rough.jpg
+map_Bump Medieval house4_Normal.jpg
+
+newmtl House_Mat
+Ns 0.999999
+Ka 1.000000 1.000000 1.000000
+Ks 0.840000 0.840000 0.840000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd HouseMed_Diff.jpg
+
+newmtl House_Mat.001
+Ns 0.999999
+Ka 1.000000 1.000000 1.000000
+Ks 0.840000 0.840000 0.840000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd HouseMed_Diff.jpg
+
+newmtl Lampadina_SH
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl Lampadina_SH.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl Lampadina_SH.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl Lampadina_SH.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl Lampadina_SH.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl Lampadina_SH.005
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl Lampione_Base_SH
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd Fasce_Lampada_SH_BaseColor.png
+
+newmtl Lampione_Base_SH.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd Fasce_Lampada_SH_BaseColor.png
+
+newmtl Lampione_Base_SH.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd Fasce_Lampada_SH_BaseColor.png
+
+newmtl Lampione_Base_SH.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd Fasce_Lampada_SH_BaseColor.png
+
+newmtl Lampione_Base_SH.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd Fasce_Lampada_SH_BaseColor.png
+
+newmtl Lampione_Base_SH.005
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd Fasce_Lampada_SH_BaseColor.png
+
+newmtl Material-Leaves
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.045455 0.045455 0.045455
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd LEaf_Oak_Gum_AE3D_10302022-A.png
+map_d LEaf_Oak_Gum_AE3D_10302022-A.png
+
+newmtl Material-Leaves.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.045455 0.045455 0.045455
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd LEaf_Oak_Gum_AE3D_10302022-A.png
+map_d LEaf_Oak_Gum_AE3D_10302022-A.png
+
+newmtl Material-Leaves.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.045455 0.045455 0.045455
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd LEaf_Oak_Gum_AE3D_10302022-A.png
+map_d LEaf_Oak_Gum_AE3D_10302022-A.png
+
+newmtl Material-Leaves.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.045455 0.045455 0.045455
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd LEaf_Oak_Gum_AE3D_10302022-A.png
+map_d LEaf_Oak_Gum_AE3D_10302022-A.png
+
+newmtl Material-Leaves.004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.045455 0.045455 0.045455
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd LEaf_Oak_Gum_AE3D_10302022-A.png
+map_d LEaf_Oak_Gum_AE3D_10302022-A.png
+
+newmtl Material-Leaves.005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.045455 0.045455 0.045455
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd LEaf_Oak_Gum_AE3D_10302022-A.png
+map_d LEaf_Oak_Gum_AE3D_10302022-A.png
+
+newmtl Material-Leaves.006
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.045455 0.045455 0.045455
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd LEaf_Oak_Gum_AE3D_10302022-A.png
+map_d LEaf_Oak_Gum_AE3D_10302022-A.png
+
+newmtl Material-Leaves.007
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.045455 0.045455 0.045455
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd LEaf_Oak_Gum_AE3D_10302022-A.png
+map_d LEaf_Oak_Gum_AE3D_10302022-A.png
+
+newmtl Material-Leaves.008
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.045455 0.045455 0.045455
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd LEaf_Oak_Gum_AE3D_10302022-A.png
+map_d LEaf_Oak_Gum_AE3D_10302022-A.png
+
+newmtl Material-Leaves.009
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.045455 0.045455 0.045455
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd LEaf_Oak_Gum_AE3D_10302022-A.png
+map_d LEaf_Oak_Gum_AE3D_10302022-A.png
+
+newmtl Material-Leaves.010
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.045455 0.045455 0.045455
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd LEaf_Oak_Gum_AE3D_10302022-A.png
+map_d LEaf_Oak_Gum_AE3D_10302022-A.png
+
+newmtl Material-Leaves.011
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.045455 0.045455 0.045455
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd LEaf_Oak_Gum_AE3D_10302022-A.png
+map_d LEaf_Oak_Gum_AE3D_10302022-A.png
+
+newmtl Material-Leaves.012
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.045455 0.045455 0.045455
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd LEaf_Oak_Gum_AE3D_10302022-A.png
+map_d LEaf_Oak_Gum_AE3D_10302022-A.png
+
+newmtl Material-Leaves.013
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.045455 0.045455 0.045455
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd LEaf_Oak_Gum_AE3D_10302022-A.png
+map_d LEaf_Oak_Gum_AE3D_10302022-A.png
+
+newmtl Material-Leaves.014
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.045455 0.045455 0.045455
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd LEaf_Oak_Gum_AE3D_10302022-A.png
+map_d LEaf_Oak_Gum_AE3D_10302022-A.png
+
+newmtl Material-Leaves.015
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.045455 0.045455 0.045455
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd LEaf_Oak_Gum_AE3D_10302022-A.png
+map_d LEaf_Oak_Gum_AE3D_10302022-A.png
+
+newmtl Material-Leaves.016
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.045455 0.045455 0.045455
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd LEaf_Oak_Gum_AE3D_10302022-A.png
+map_d LEaf_Oak_Gum_AE3D_10302022-A.png
+
+newmtl Material-Leaves.017
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.045455 0.045455 0.045455
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd LEaf_Oak_Gum_AE3D_10302022-A.png
+map_d LEaf_Oak_Gum_AE3D_10302022-A.png
+
+newmtl Material-Leaves.018
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.045455 0.045455 0.045455
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd LEaf_Oak_Gum_AE3D_10302022-A.png
+map_d LEaf_Oak_Gum_AE3D_10302022-A.png
+
+newmtl Material-Leaves.019
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.045455 0.045455 0.045455
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd LEaf_Oak_Gum_AE3D_10302022-A.png
+map_d LEaf_Oak_Gum_AE3D_10302022-A.png
+
+newmtl Material-Leaves.020
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.045455 0.045455 0.045455
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd LEaf_Oak_Gum_AE3D_10302022-A.png
+map_d LEaf_Oak_Gum_AE3D_10302022-A.png
+
+newmtl Material.001
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd diff.png
+
+newmtl Material.002
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd diff.png
+
+newmtl Material.004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd cart_lp [Albedo].png
+
+newmtl Material.024
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd white.jpg
+
+newmtl Material.025
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd white.jpg
+
+newmtl Material.026
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd white.jpg
+
+newmtl Material.027
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd white.jpg
+
+newmtl Material.028
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd white.jpg
+
+newmtl Material.029
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd white.jpg
+
+newmtl Material.Trunk_and_Primary_Limbs
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd GenTree_2_Trunk_Limbs_AE3D_03312023-A-DIFFUSE.png
+map_Ns GenTree_2_Trunk_Limbs_AE3D_03312023-A-SMOOTH.png
+
+newmtl Material.Trunk_and_Primary_Limbs.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd GenTree_2_Trunk_Limbs_AE3D_03312023-A-DIFFUSE.png
+map_Ns GenTree_2_Trunk_Limbs_AE3D_03312023-A-SMOOTH.png
+
+newmtl Material.Trunk_and_Primary_Limbs.002
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd GenTree_2_Trunk_Limbs_AE3D_03312023-A-DIFFUSE.png
+map_Ns GenTree_2_Trunk_Limbs_AE3D_03312023-A-SMOOTH.png
+
+newmtl Material.Trunk_and_Primary_Limbs.003
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd GenTree_2_Trunk_Limbs_AE3D_03312023-A-DIFFUSE.png
+map_Ns GenTree_2_Trunk_Limbs_AE3D_03312023-A-SMOOTH.png
+
+newmtl Material.Trunk_and_Primary_Limbs.004
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd GenTree_2_Trunk_Limbs_AE3D_03312023-A-DIFFUSE.png
+map_Ns GenTree_2_Trunk_Limbs_AE3D_03312023-A-SMOOTH.png
+
+newmtl Material.Trunk_and_Primary_Limbs.005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd GenTree_2_Trunk_Limbs_AE3D_03312023-A-DIFFUSE.png
+map_Ns GenTree_2_Trunk_Limbs_AE3D_03312023-A-SMOOTH.png
+
+newmtl Material.Trunk_and_Primary_Limbs.006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd GenTree_2_Trunk_Limbs_AE3D_03312023-A-DIFFUSE.png
+map_Ns GenTree_2_Trunk_Limbs_AE3D_03312023-A-SMOOTH.png
+
+newmtl Material.Trunk_and_Primary_Limbs.007
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd GenTree_2_Trunk_Limbs_AE3D_03312023-A-DIFFUSE.png
+map_Ns GenTree_2_Trunk_Limbs_AE3D_03312023-A-SMOOTH.png
+
+newmtl Material.Trunk_and_Primary_Limbs.008
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd GenTree_2_Trunk_Limbs_AE3D_03312023-A-DIFFUSE.png
+map_Ns GenTree_2_Trunk_Limbs_AE3D_03312023-A-SMOOTH.png
+
+newmtl Material.Trunk_and_Primary_Limbs.009
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd GenTree_2_Trunk_Limbs_AE3D_03312023-A-DIFFUSE.png
+map_Ns GenTree_2_Trunk_Limbs_AE3D_03312023-A-SMOOTH.png
+
+newmtl Material.Trunk_and_Primary_Limbs.010
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd GenTree_2_Trunk_Limbs_AE3D_03312023-A-DIFFUSE.png
+map_Ns GenTree_2_Trunk_Limbs_AE3D_03312023-A-SMOOTH.png
+
+newmtl Material.Trunk_and_Primary_Limbs.011
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd GenTree_2_Trunk_Limbs_AE3D_03312023-A-DIFFUSE.png
+map_Ns GenTree_2_Trunk_Limbs_AE3D_03312023-A-SMOOTH.png
+
+newmtl Material.Trunk_and_Primary_Limbs.012
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd GenTree_2_Trunk_Limbs_AE3D_03312023-A-DIFFUSE.png
+map_Ns GenTree_2_Trunk_Limbs_AE3D_03312023-A-SMOOTH.png
+
+newmtl Material.Trunk_and_Primary_Limbs.013
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd GenTree_2_Trunk_Limbs_AE3D_03312023-A-DIFFUSE.png
+map_Ns GenTree_2_Trunk_Limbs_AE3D_03312023-A-SMOOTH.png
+
+newmtl Material.Trunk_and_Primary_Limbs.014
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd GenTree_2_Trunk_Limbs_AE3D_03312023-A-DIFFUSE.png
+map_Ns GenTree_2_Trunk_Limbs_AE3D_03312023-A-SMOOTH.png
+
+newmtl Material.Trunk_and_Primary_Limbs.015
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd GenTree_2_Trunk_Limbs_AE3D_03312023-A-DIFFUSE.png
+map_Ns GenTree_2_Trunk_Limbs_AE3D_03312023-A-SMOOTH.png
+
+newmtl Material.Trunk_and_Primary_Limbs.016
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd GenTree_2_Trunk_Limbs_AE3D_03312023-A-DIFFUSE.png
+map_Ns GenTree_2_Trunk_Limbs_AE3D_03312023-A-SMOOTH.png
+
+newmtl Material.Trunk_and_Primary_Limbs.017
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd GenTree_2_Trunk_Limbs_AE3D_03312023-A-DIFFUSE.png
+map_Ns GenTree_2_Trunk_Limbs_AE3D_03312023-A-SMOOTH.png
+
+newmtl Material.Trunk_and_Primary_Limbs.018
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd GenTree_2_Trunk_Limbs_AE3D_03312023-A-DIFFUSE.png
+map_Ns GenTree_2_Trunk_Limbs_AE3D_03312023-A-SMOOTH.png
+
+newmtl Material.Trunk_and_Primary_Limbs.019
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd GenTree_2_Trunk_Limbs_AE3D_03312023-A-DIFFUSE.png
+map_Ns GenTree_2_Trunk_Limbs_AE3D_03312023-A-SMOOTH.png
+
+newmtl Material.Trunk_and_Primary_Limbs.020
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd GenTree_2_Trunk_Limbs_AE3D_03312023-A-DIFFUSE.png
+map_Ns GenTree_2_Trunk_Limbs_AE3D_03312023-A-SMOOTH.png
+
+newmtl Material.Twigs
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Gentree_2_Twigs_AE3D_04022023-B-DIFFUSE.jpg
+map_Ns GenTree_2_Trunk_Limbs_AE3D_03312023-A-SMOOTH.png
+
+newmtl Material.Twigs.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Gentree_2_Twigs_AE3D_04022023-B-DIFFUSE.jpg
+map_Ns GenTree_2_Trunk_Limbs_AE3D_03312023-A-SMOOTH.png
+
+newmtl Material.Twigs.002
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Gentree_2_Twigs_AE3D_04022023-B-DIFFUSE.jpg
+map_Ns GenTree_2_Trunk_Limbs_AE3D_03312023-A-SMOOTH.png
+
+newmtl Material.Twigs.003
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Gentree_2_Twigs_AE3D_04022023-B-DIFFUSE.jpg
+map_Ns GenTree_2_Trunk_Limbs_AE3D_03312023-A-SMOOTH.png
+
+newmtl Material.Twigs.004
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Gentree_2_Twigs_AE3D_04022023-B-DIFFUSE.jpg
+map_Ns GenTree_2_Trunk_Limbs_AE3D_03312023-A-SMOOTH.png
+
+newmtl Material.Twigs.005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Gentree_2_Twigs_AE3D_04022023-B-DIFFUSE.jpg
+map_Ns GenTree_2_Trunk_Limbs_AE3D_03312023-A-SMOOTH.png
+
+newmtl Material.Twigs.006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Gentree_2_Twigs_AE3D_04022023-B-DIFFUSE.jpg
+map_Ns GenTree_2_Trunk_Limbs_AE3D_03312023-A-SMOOTH.png
+
+newmtl Material.Twigs.007
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Gentree_2_Twigs_AE3D_04022023-B-DIFFUSE.jpg
+map_Ns GenTree_2_Trunk_Limbs_AE3D_03312023-A-SMOOTH.png
+
+newmtl Material.Twigs.008
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Gentree_2_Twigs_AE3D_04022023-B-DIFFUSE.jpg
+map_Ns GenTree_2_Trunk_Limbs_AE3D_03312023-A-SMOOTH.png
+
+newmtl Material.Twigs.009
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Gentree_2_Twigs_AE3D_04022023-B-DIFFUSE.jpg
+map_Ns GenTree_2_Trunk_Limbs_AE3D_03312023-A-SMOOTH.png
+
+newmtl Material.Twigs.010
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Gentree_2_Twigs_AE3D_04022023-B-DIFFUSE.jpg
+map_Ns GenTree_2_Trunk_Limbs_AE3D_03312023-A-SMOOTH.png
+
+newmtl Material.Twigs.011
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Gentree_2_Twigs_AE3D_04022023-B-DIFFUSE.jpg
+map_Ns GenTree_2_Trunk_Limbs_AE3D_03312023-A-SMOOTH.png
+
+newmtl Material.Twigs.012
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Gentree_2_Twigs_AE3D_04022023-B-DIFFUSE.jpg
+map_Ns GenTree_2_Trunk_Limbs_AE3D_03312023-A-SMOOTH.png
+
+newmtl Material.Twigs.013
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Gentree_2_Twigs_AE3D_04022023-B-DIFFUSE.jpg
+map_Ns GenTree_2_Trunk_Limbs_AE3D_03312023-A-SMOOTH.png
+
+newmtl Material.Twigs.014
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Gentree_2_Twigs_AE3D_04022023-B-DIFFUSE.jpg
+map_Ns GenTree_2_Trunk_Limbs_AE3D_03312023-A-SMOOTH.png
+
+newmtl Material.Twigs.015
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Gentree_2_Twigs_AE3D_04022023-B-DIFFUSE.jpg
+map_Ns GenTree_2_Trunk_Limbs_AE3D_03312023-A-SMOOTH.png
+
+newmtl Material.Twigs.016
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Gentree_2_Twigs_AE3D_04022023-B-DIFFUSE.jpg
+map_Ns GenTree_2_Trunk_Limbs_AE3D_03312023-A-SMOOTH.png
+
+newmtl Material.Twigs.017
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Gentree_2_Twigs_AE3D_04022023-B-DIFFUSE.jpg
+map_Ns GenTree_2_Trunk_Limbs_AE3D_03312023-A-SMOOTH.png
+
+newmtl Material.Twigs.018
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Gentree_2_Twigs_AE3D_04022023-B-DIFFUSE.jpg
+map_Ns GenTree_2_Trunk_Limbs_AE3D_03312023-A-SMOOTH.png
+
+newmtl Material.Twigs.019
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Gentree_2_Twigs_AE3D_04022023-B-DIFFUSE.jpg
+map_Ns GenTree_2_Trunk_Limbs_AE3D_03312023-A-SMOOTH.png
+
+newmtl Material.Twigs.020
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Gentree_2_Twigs_AE3D_04022023-B-DIFFUSE.jpg
+map_Ns GenTree_2_Trunk_Limbs_AE3D_03312023-A-SMOOTH.png
+
+newmtl Reggi_Lampada_SH
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd Fasce_Lampada_SH_BaseColor.png
+
+newmtl Reggi_Lampada_SH.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd Fasce_Lampada_SH_BaseColor.png
+
+newmtl Reggi_Lampada_SH.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd Fasce_Lampada_SH_BaseColor.png
+
+newmtl Reggi_Lampada_SH.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd Fasce_Lampada_SH_BaseColor.png
+
+newmtl Reggi_Lampada_SH.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd Fasce_Lampada_SH_BaseColor.png
+
+newmtl Reggi_Lampada_SH.005
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd Fasce_Lampada_SH_BaseColor.png
+
+newmtl RockWalkway
+Ns 752.599915
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd RockWalkway01_Base_Diffuse.png
+map_Ks RockWalkway01_Base_Specular.png
+
+newmtl RockWalkway.001
+Ns 752.599915
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd RockWalkway01_Base_Diffuse.png
+map_Ks RockWalkway01_Base_Specular.png
+
+newmtl RockWalkway.002
+Ns 752.599915
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd RockWalkway01_Base_Diffuse.png
+map_Ks RockWalkway01_Base_Specular.png
+
+newmtl RockWalkway.003
+Ns 752.599915
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd RockWalkway01_Base_Diffuse.png
+map_Ks RockWalkway01_Base_Specular.png
+
+newmtl RockWalkway.004
+Ns 752.599915
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd RockWalkway01_Base_Diffuse.png
+map_Ks RockWalkway01_Base_Specular.png
+
+newmtl RockWalkway.005
+Ns 752.599915
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd RockWalkway01_Base_Diffuse.png
+map_Ks RockWalkway01_Base_Specular.png
+
+newmtl RockWalkway.006
+Ns 752.599915
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd RockWalkway01_Base_Diffuse.png
+map_Ks RockWalkway01_Base_Specular.png
+
+newmtl RockWalkway.007
+Ns 752.599915
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd RockWalkway01_Base_Diffuse.png
+map_Ks RockWalkway01_Base_Specular.png
+
+newmtl RockWalkway.008
+Ns 752.599915
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd RockWalkway01_Base_Diffuse.png
+map_Ks RockWalkway01_Base_Specular.png
+
+newmtl RockWalkway.009
+Ns 752.599915
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd RockWalkway01_Base_Diffuse.png
+map_Ks RockWalkway01_Base_Specular.png
+
+newmtl RockWalkway.010
+Ns 752.599915
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd RockWalkway01_Base_Diffuse.png
+map_Ks RockWalkway01_Base_Specular.png
+
+newmtl RockWalkway.011
+Ns 752.599915
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd RockWalkway01_Base_Diffuse.png
+map_Ks RockWalkway01_Base_Specular.png
+
+newmtl RockWalkway.012
+Ns 752.599915
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd RockWalkway01_Base_Diffuse.png
+map_Ks RockWalkway01_Base_Specular.png
+
+newmtl RockWalkway.013
+Ns 752.599915
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd RockWalkway01_Base_Diffuse.png
+map_Ks RockWalkway01_Base_Specular.png
+
+newmtl RockWalkway.014
+Ns 752.599915
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd RockWalkway01_Base_Diffuse.png
+map_Ks RockWalkway01_Base_Specular.png
+
+newmtl RockWalkway.015
+Ns 752.599915
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd RockWalkway01_Base_Diffuse.png
+map_Ks RockWalkway01_Base_Specular.png
+
+newmtl RockWalkway.016
+Ns 752.599915
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd RockWalkway01_Base_Diffuse.png
+map_Ks RockWalkway01_Base_Specular.png
+
+newmtl RockWalkway.017
+Ns 752.599915
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd RockWalkway01_Base_Diffuse.png
+map_Ks RockWalkway01_Base_Specular.png
+
+newmtl RockWalkway.018
+Ns 752.599915
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd RockWalkway01_Base_Diffuse.png
+map_Ks RockWalkway01_Base_Specular.png
+
+newmtl RockWalkway.019
+Ns 752.599915
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd RockWalkway01_Base_Diffuse.png
+map_Ks RockWalkway01_Base_Specular.png
+
+newmtl RockWalkway.020
+Ns 752.599915
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd RockWalkway01_Base_Diffuse.png
+map_Ks RockWalkway01_Base_Specular.png
+
+newmtl RockWalkway.021
+Ns 752.599915
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd RockWalkway01_Base_Diffuse.png
+map_Ks RockWalkway01_Base_Specular.png
+
+newmtl RockWalkway.022
+Ns 752.599915
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd RockWalkway01_Base_Diffuse.png
+map_Ks RockWalkway01_Base_Specular.png
+
+newmtl RockWalkway.023
+Ns 752.599915
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd RockWalkway01_Base_Diffuse.png
+map_Ks RockWalkway01_Base_Specular.png
+
+newmtl RockWalkway.024
+Ns 752.599915
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd RockWalkway01_Base_Diffuse.png
+map_Ks RockWalkway01_Base_Specular.png
+
+newmtl RockWalkway.025
+Ns 752.599915
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd RockWalkway01_Base_Diffuse.png
+map_Ks RockWalkway01_Base_Specular.png
+
+newmtl RockWalkway.026
+Ns 752.599915
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd RockWalkway01_Base_Diffuse.png
+map_Ks RockWalkway01_Base_Specular.png
+
+newmtl RockWalkway.027
+Ns 752.599915
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd RockWalkway01_Base_Diffuse.png
+map_Ks RockWalkway01_Base_Specular.png
+
+newmtl RockWalkway.028
+Ns 752.599915
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd RockWalkway01_Base_Diffuse.png
+map_Ks RockWalkway01_Base_Specular.png
+
+newmtl Tex_1.001
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Texture 1.jpg
+
+newmtl windmill_001_base_COL_jpg
+Ns 1.300799
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd windmill_001_base_COL.jpg
+
+newmtl windmill_001_lopatky_COL_jpg
+Ns 1.300799
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd windmill_001_lopatky_COL.jpg
+
+newmtl wire_087224198.009
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd 2.jpg
