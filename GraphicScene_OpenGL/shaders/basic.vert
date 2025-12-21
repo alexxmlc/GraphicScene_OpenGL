@@ -11,6 +11,10 @@ out vec2 fTexCoords;
 uniform mat4 model;
 uniform mat4 view;
 uniform mat4 projection;
+uniform mat4 lightSpaceTrMatrix;
+
+// for shadow
+out vec4 fragPosLightSpace;
 
 void main() 
 {
@@ -18,4 +22,5 @@ void main()
 	fPosition = vPosition;
 	fNormal = vNormal;
 	fTexCoords = vTexCoords;
+	fragPosLightSpace = lightSpaceTrMatrix * model * vec4(vPosition, 1.0f);
 }
